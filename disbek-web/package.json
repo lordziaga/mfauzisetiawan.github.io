@@ -1,0 +1,20 @@
+{
+  "name": "disbek-web",
+  "version": "1.0.0",
+  "description": "web design for disbek lantamal V",
+  "main": "disbek.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node disbek.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordziaga/disbek-web.git"
+  },
+  "author": "fauzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lordziaga/disbek-web/issues"
+  },
+  "homepage": "https://github.com/lordziaga/disbek-web#readme"
+}
