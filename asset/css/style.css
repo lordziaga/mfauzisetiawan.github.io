@@ -653,6 +653,7 @@ img {
   font-weight: var(--fw-3);
   line-height: 1.6;
   margin: 0;
+  text-align: center;
 }
 
 
